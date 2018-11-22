@@ -8,7 +8,7 @@ Thanks for submitting your contribution to the project.
 - [ ] Bug fix
 
 ## Description
-Please include a summary of the change and which issue or JIRA Card it addresses.
+Please include a summary of the change and which issue or JIRA card it addresses.
 List any dependencies that are required for this change
 
 ## How has this been tested?
