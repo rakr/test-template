@@ -11,8 +11,7 @@ Thanks for submitting your contribution to the project.
 Please include a summary of the change and which issue or JIRA card it addresses.
 List any dependencies that are required for this change
 
-## How has this been tested?
-Please describe the tests that you ran to verify your changes.
+## How has this can be tested?
 Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
 - Test A
@@ -28,6 +27,7 @@ Provide instructions so we can reproduce. Please also list any relevant details 
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] On my environment I'm seeing at least 80% code coverage
+- [ ] I have assigned reviewers for this pull request
 
 ## Further comments
 
