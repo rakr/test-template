@@ -3,7 +3,7 @@ Thanks for submitting your contribution to the project.
 ## JIRA Ref: TW....
 
 ## Type of change
-
+*Put an `x` in the boxes that apply.*
 - [ ] New feature
 - [ ] Bug fix
 
@@ -15,9 +15,9 @@ List any dependencies that are required for this change
 Please describe the tests that you ran to verify your changes.
 Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
-- [ ] Test A
-- [ ] Test B
-- [ ] ...
+- Test A
+- Test B
+- ...
 
 
 ## Checklist:
